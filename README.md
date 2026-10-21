@@ -17,7 +17,7 @@ Mona Mayhem is an Astro starter for a retro arcade-style arena where two GitHub 
 You'll need [Node.js](https://nodejs.org/) and npm.
 
 ```sh
-git clone <your-repository-url>
+git clone https://github.com/amethvault/my-mona-mayhem.git
 cd my-mona-mayhem
 npm ci
 npm run dev
